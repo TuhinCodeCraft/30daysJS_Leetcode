@@ -12,7 +12,10 @@ This repository contains my solutions for the LeetCode 30-day JavaScript challen
 | 1   | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/) | [Solution](Day01/prog.js) |    
 | 2   | [Counter](https://leetcode.com/problems/counter/) | [Solution](Day02/prog.js) |    
 | 3   | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | [Solution](Day03/prog.js) |    
+<<<<<<< HEAD
 | 4   | [To Be Or Not To Be](https://leetcode.com/problems/counter-ii/) | [Solution](Day04/prog.js) |    
+=======
+>>>>>>> f997bb9308cd5fc00f57f32cbf64130911135398
 
 ## Contributing  
 Feel free to fork, improve the solutions, or suggest alternative approaches. PRs are welcome!  
