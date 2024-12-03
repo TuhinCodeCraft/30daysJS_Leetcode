@@ -13,6 +13,7 @@ This repository contains my solutions for the LeetCode 30-day JavaScript challen
 | 2   | [Counter](https://leetcode.com/problems/counter/) | [Solution](Day02/prog.js) |    
 | 3   | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | [Solution](Day03/prog.js) |    
 | 4   | [To Be Or Not To Be](https://leetcode.com/problems/counter-ii/) | [Solution](Day04/prog.js) |    
+| 5   | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [Solution](Day05/prog.js) |    
 
 ## Contributing  
 Feel free to fork, improve the solutions, or suggest alternative approaches. PRs are welcome!  
