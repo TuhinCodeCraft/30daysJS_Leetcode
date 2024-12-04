@@ -14,6 +14,7 @@ This repository contains my solutions for the LeetCode 30-day JavaScript challen
 | 3   | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | [Solution](Day03/prog.js) |    
 | 4   | [To Be Or Not To Be](https://leetcode.com/problems/counter-ii/) | [Solution](Day04/prog.js) |    
 | 5   | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [Solution](Day05/prog.js) |    
+| 6   | [Filter Elements From Array](https://leetcode.com/problems/filter-elements-from-array) | [Solution](Day06/prog.js) |    
 
 ## Contributing  
 Feel free to fork, improve the solutions, or suggest alternative approaches. PRs are welcome!  
