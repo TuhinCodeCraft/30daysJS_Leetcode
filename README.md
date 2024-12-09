@@ -19,6 +19,7 @@ This repository contains my solutions for the LeetCode 30-day JavaScript challen
 | 8   | [Function Composition](https://leetcode.com/problems/function-composition) | [Solution](Day08/prog.js) |    
 | 9   | [Return Length Of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed) | [Solution](Day09/prog.js) |    
 | 10   | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call) | [Solution](Day10/prog.js) |    
+| 11   | [Memoize](https://leetcode.com/problems/memoize) | [Solution](Day11/prog.js) |    
 
 ## Contributing  
 Feel free to fork, improve the solutions, or suggest alternative approaches. PRs are welcome!  
