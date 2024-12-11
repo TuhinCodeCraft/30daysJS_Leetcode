@@ -21,6 +21,7 @@ This repository contains my solutions for the LeetCode 30-day JavaScript challen
 | 10   | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call) | [Solution](Day10/prog.js) |    
 | 11   | [Memoize](https://leetcode.com/problems/memoize) | [Solution](Day11/prog.js) |    
 | 12   | [Add two promises](https://leetcode.com/problems/add-two-promises) | [Solution](Day12/prog.js) |    
+| 13   | [Sleep](https://leetcode.com/problems/sleep) | [Solution](Day13/prog.js) |    
 
 ## Contributing  
 Feel free to fork, improve the solutions, or suggest alternative approaches. PRs are welcome!  
