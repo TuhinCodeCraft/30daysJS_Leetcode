@@ -23,6 +23,7 @@ This repository contains my solutions for the LeetCode 30-day JavaScript challen
 | 12   | [Add two promises](https://leetcode.com/problems/add-two-promises) | [Solution](Day12/prog.js) |    
 | 13   | [Sleep](https://leetcode.com/problems/sleep) | [Solution](Day13/prog.js) |    
 | 14   | [Timeout Cancellatioon](https://leetcode.com/problems/timeout-cancellation) | [Solution](Day14/prog.js) |    
+| 15   | [Interval Cancellatioon](https://leetcode.com/problems/interval-cancellation) | [Solution](Day15/prog.js) |    
 
 ## Contributing  
 Feel free to fork, improve the solutions, or suggest alternative approaches. PRs are welcome!  
