@@ -26,6 +26,7 @@ This repository contains my solutions for the LeetCode 30-day JavaScript challen
 | 15   | [Interval Cancellatioon](https://leetcode.com/problems/interval-cancellation) | [Solution](Day15/prog.js) |    
 | 16   | [Promise The Limit](https://leetcode.com/problems/promise-time-limit) | [Solution](Day16/prog.js) |    
 | 17   | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [Solution](Day17/prog.js) |    
+| 18   | [Debounce](https://leetcode.com/problems/debounce) | [Solution](Day18/prog.js) |    
 
 ## Contributing  
 Feel free to fork, improve the solutions, or suggest alternative approaches. PRs are welcome!  
