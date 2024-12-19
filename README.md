@@ -29,6 +29,7 @@ This repository contains my solutions for the LeetCode 30-day JavaScript challen
 | 18   | [Debounce](https://leetcode.com/problems/debounce) | [Solution](Day18/prog.js) |    
 | 19   | [Execute Asynchrnous Function in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel) | [Solution](Day19/prog.js) |    
 | 20   | [Is Object Empty](https://leetcode.com/problems/is-object-empty) | [Solution](Day20/prog.js) |    
+| 21   | [Chunk Array](https://leetcode.com/problems/chunk-array) | [Solution](Day21/prog.js) |    
 
 ## Contributing  
 Feel free to fork, improve the solutions, or suggest alternative approaches. PRs are welcome!  
