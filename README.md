@@ -31,6 +31,7 @@ This repository contains my solutions for the LeetCode 30-day JavaScript challen
 | 20   | [Is Object Empty](https://leetcode.com/problems/is-object-empty) | [Solution](Day20/prog.js) |    
 | 21   | [Chunk Array](https://leetcode.com/problems/chunk-array) | [Solution](Day21/prog.js) |    
 | 22   | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last) | [Solution](Day22/prog.js) |    
+| 23   | [Group By](https://leetcode.com/problems/group-by) | [Solution](Day23/prog.js) |    
 
 ## Contributing  
 Feel free to fork, improve the solutions, or suggest alternative approaches. PRs are welcome!  
