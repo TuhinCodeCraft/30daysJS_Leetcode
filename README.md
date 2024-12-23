@@ -33,6 +33,7 @@ This repository contains my solutions for the LeetCode 30-day JavaScript challen
 | 22   | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last) | [Solution](Day22/prog.js) |    
 | 23   | [Group By](https://leetcode.com/problems/group-by) | [Solution](Day23/prog.js) |    
 | 24   | [Sort By](https://leetcode.com/problems/sort-by) | [Solution](Day24/prog.js) |    
+| 25   | [Sort By](https://leetcode.com/problems/join-two-arrays-by-id) | [Solution](Day25/prog.js) |    
 
 ## Contributing  
 Feel free to fork, improve the solutions, or suggest alternative approaches. PRs are welcome!  
