@@ -36,6 +36,7 @@ This repository contains my solutions for the LeetCode 30-day JavaScript challen
 | 25   | [Join Two Arrays By Id](https://leetcode.com/problems/join-two-arrays-by-id) | [Solution](Day25/prog.js) |    
 | 26   | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array) | [Solution](Day26/prog.js) |    
 | 27   | [Compact Object](https://leetcode.com/problems/compact-object) | [Solution](Day27/prog.js) |    
+| 28   | [Event emitter](https://leetcode.com/problems/event-emitter) | [Solution](Day28/prog.js) |    
 
 ## Contributing  
 Feel free to fork, improve the solutions, or suggest alternative approaches. PRs are welcome!  
