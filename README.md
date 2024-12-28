@@ -38,6 +38,7 @@ This repository contains my solutions for the LeetCode 30-day JavaScript challen
 | 27   | [Compact Object](https://leetcode.com/problems/compact-object) | [Solution](Day27/prog.js) |    
 | 28   | [Event emitter](https://leetcode.com/problems/event-emitter) | [Solution](Day28/prog.js) |    
 | 29   | [Array Wrapper](https://leetcode.com/problems/array-wrapper) | [Solution](Day29/prog.js) |    
+| 30   | [Calculator With Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining) | [Solution](Day30/prog.js) |    
 
 ## Contributing  
 Feel free to fork, improve the solutions, or suggest alternative approaches. PRs are welcome!  
